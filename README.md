@@ -1,3 +1,6 @@
+Just add to any dotfiles in nix vms any x vector.
+
+
 Sure, I'd be happy to provide some personalized advice based on your Codeforces data. Let me first take a look at your profile details from To fetch the user details for the given Codeforces handles, we can use the Codeforces API. Here's an example Python script that retrieves the requested information for each handle:
 
 import requests
